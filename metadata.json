@@ -1,0 +1,6 @@
+{
+  "name": "Math Is Life – The Ultimate AI-Powered Math Learning Platform",
+  "description": "Interactive AI math tutor, digital notebook, interactive whiteboard, smart revision system, and personalized study space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
